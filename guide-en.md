@@ -1,4 +1,4 @@
-# **WordPress XML Converter: User Manual**
+# **User Manual**
 
 ## **1\. Introduction**
 
