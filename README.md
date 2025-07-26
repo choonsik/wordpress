@@ -33,4 +33,9 @@
 * **전체 다운로드 (ZIP)**: 모든 게시물(md, html), 페이지(md, html), 미디어 파일 자동 다운로드 스크립트(download\_media.sh)를 하나의 ZIP 파일로 제공합니다.  
 * **개별 파일 다운로드**: 현재 보고 있는 콘텐츠를 .md 또는 .html 파일로 즉시 다운로드할 수 있습니다.
 
+## **🏃 실행 방법 (How to run)**
+
+* https://choonsik.github.io/wp2md.html
+* wp2md.html 다운로드 후 로컬에서 브라우저로 실행
+
 감사합니다.
